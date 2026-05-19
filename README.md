@@ -1,8 +1,8 @@
-# PoplarPheno Collector - 杨树表型数据采集App
+# Pheno Collector - 杨树表型数据采集App
 
 ## 项目简介
 
-PoplarPheno Collector 是一款专为杨树（Poplar）表型数据采集设计的Android应用程序。该App用于辅助科研人员进行杨树表型性状的野外数据采集工作。
+PoplarPheno Collector 是一款专为杨树（Poplar）等多种木本植物表型数据采集设计的Android应用程序。该App用于辅助科研人员进行杨树表型性状的野外数据采集工作。
 
 ## 版本信息
 
@@ -62,5 +62,7 @@ PoplarPheno-App-Release/
 
 ---
 
-**开发时间**: 2024年
-**作者**: Ian
+**开发时间**: 2026年
+**作者**: Ian（Yi Hong）
+**作者单位**:NJFU
+
