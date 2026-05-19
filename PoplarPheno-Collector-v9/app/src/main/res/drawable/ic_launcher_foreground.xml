@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 叶片主体 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,20 C60,28 68,38 72,48 L54,48 Z" />
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M54,20 C48,28 40,38 36,48 L54,48 Z" />
+    <!-- 叶脉 -->
+    <path
+        android:fillColor="#388E3C"
+        android:strokeColor="#388E3C"
+        android:strokeWidth="1"
+        android:pathData="M54,20 L54,68" />
+    <path
+        android:fillColor="#388E3C"
+        android:strokeColor="#388E3C"
+        android:strokeWidth="0.8"
+        android:pathData="M54,32 L63,40 M54,38 L62,46 M54,44 L60,50" />
+    <path
+        android:fillColor="#388E3C"
+        android:strokeColor="#388E3C"
+        android:strokeWidth="0.8"
+        android:pathData="M54,32 L45,40 M54,38 L46,46 M54,44 L48,50" />
+    <!-- 茎 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="2"
+        android:pathData="M54,68 L54,90" />
+    <!-- 地面线 -->
+    <path
+        android:fillColor="#81C784"
+        android:strokeColor="#66BB6A"
+        android:strokeWidth="3"
+        android:pathData="M38,90 Q54,86 70,90" />
+    <!-- 相机光圈 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#A5D6A7"
+        android:strokeWidth="1.5"
+        android:pathData="M64,68 A10,10 0 1,1 63.9,68" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M64,68 A5,5 0 1,1 63.9,68" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,68 A2.5,2.5 0 1,1 63.9,68" />
+</vector>
